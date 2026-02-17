@@ -7,3 +7,6 @@ You only need to launch *Colab* by clicking on the above logo. This will basical
 Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%201/Lecture%2001.ipynb)
 
 Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%202/Lecture%202.ipynb)
+
+Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%203/Lecture%203.ipynb)
+
