@@ -10,3 +10,5 @@ Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%203/Lecture%203.ipynb)
 
+Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%204/Lecture%2004.ipynb)
+
