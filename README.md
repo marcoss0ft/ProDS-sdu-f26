@@ -14,3 +14,5 @@ Lecture 4: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 5: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%205/Lecture%205.ipynb)
 
+Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/ProDS-sdu-f26/blob/master/Lecture%206/Lecture%206-big-o-and-recursion.ipynb)
+
